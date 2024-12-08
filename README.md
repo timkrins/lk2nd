@@ -93,4 +93,3 @@ Ask on [`#lk2nd:postmarketos.org`](https://matrix.to/#/#lk2nd:postmarketos.org) 
 
 [PSCI]: https://developer.arm.com/architectures/system-architectures/software-standards/psci
 [Little Kernel Embedded Operating System]: https://github.com/littlekernel/lk
-
